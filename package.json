@@ -7,7 +7,7 @@
     "dev": "tsnd --transpile-only --respawn --inspect --ignore-watch node_modules src/server.ts"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemailer": "^6.7.0"
   },
   "devDependencies": {
